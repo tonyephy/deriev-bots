@@ -47,7 +47,7 @@
       <block type="text_print" id="%K*MGhEQkj=7WKou[gO%">
         <value name="TEXT">
           <shadow type="text" id="o^KX%@sqg.!9h?7/,f;^">
-            <field name="TEXT">Mathews' speed bot</field>
+            <field name="TEXT">Tonys' Speed AI</field>
           </shadow>
         </value>
         <next>
@@ -134,7 +134,7 @@
                     <field name="TEXT"></field>
                   </shadow>
                   <block type="text" id="A@kIq!myR]8Y90AWOu,J">
-                    <field name="TEXT">Mathews Won it💥💥🎉✔️</field>
+                    <field name="TEXT">TonyS' Won it💥💥🎉✔️</field>
                   </block>
                 </value>
                 <next>
@@ -184,7 +184,7 @@
                     <field name="TEXT"></field>
                   </shadow>
                   <block type="text" id="1z@k-CN0~QNRxVn$WU;6">
-                    <field name="TEXT">sorry we lost but we will win🙏</field>
+                    <field name="TEXT">sorry Buddy we lost but we will win🙏</field>
                   </block>
                 </value>
                 <next>
@@ -359,7 +359,7 @@
                                 <field name="TEXT"></field>
                               </shadow>
                               <block type="text" id="QDv%MFtgy)FTdr($/7;@">
-                                <field name="TEXT">Mathews' strategy worked ! 🎉🎉💥</field>
+                                <field name="TEXT">Tonys' strategy worked ! 🎉🎉💥</field>
                               </block>
                             </value>
                             <next>
@@ -408,6 +408,6 @@
     <field name="NUM">5</field>
   </block>
   <block type="text" id="#a{Y|DhUf_8krB?P.N5Q" collapsed="true" disabled="true" x="0" y="1908">
-    <field name="TEXT">Expert  Speed Bot</field>
+    <field name="TEXT">The Expert  Speed AI</field>
   </block>
 </xml>
